@@ -39,8 +39,6 @@ prices that you need. When a price is uploaded, it is visible in the data immedi
 
 - [Tools4Albion](https://www.tools4albion.com) provides calculators for crafting, farming, and reprocessing. Has a lot 
 of useful information for users and developers alike.
-- [AlbionOnline2d](https://www.albiononline2d.com/en/market) pulls the latest information from the database and shows 
-different selling metrics for the Auction Houses.
 - [Farm Profit Calculator](http://aofarm.skyline969.ca/) utilizes market data to provide a guide to the best farming 
 options for you based on current prices.
 - [Albion Helper](https://forum.albiononline.com/index.php/Thread/174675-Beta-Albion-Helper-Discord-Market-Bot-Crafting-Calculator/#post1270471)
